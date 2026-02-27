@@ -9,4 +9,5 @@ Le Vrai ne relève ni du consensus, ni du désir, ni du confort. Il est l'Invari
 
 ### Archive de Pensée
 Ce travail est le fruit d'une "flânerie éveillée", une négociation avec le Rien ante-géométrique pour faire émerger la précision du Tout. 
-Retrouvez ici la **[https://gemini.google.com/share/1fba5a7a5dee]** qui constitue la genèse et la démonstration phénoménologique de ces concepts.
+
+Retrouvez ici la **[[https://gemini.google.com/share/1fba5a7a5dee](https://gemini.google.com/share/074b2d7c273f)]** qui constitue la genèse et la démonstration phénoménologique de ces concepts.
